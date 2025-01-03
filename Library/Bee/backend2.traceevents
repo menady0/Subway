@@ -1,0 +1,321 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1735246930960586, "dur":58217, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735246931018822, "dur":188, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735246931019073, "dur":314, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735246931019577, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1735246931019672, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1735246931019727, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1735246931019783, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1735246931019897, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1735246931019955, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1735246931020013, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1735246931020092, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1735246931020153, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1735246931020212, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1735246931020272, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1735246931020714, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1735246931020941, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931021023, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931021147, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931021209, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931021301, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931021521, "dur":173, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931021702, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931021766, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931021965, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931022030, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931022127, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931022233, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931022291, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931022485, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931022700, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931022954, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931023180, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931023607, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931023720, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931024061, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931024197, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931024306, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931024418, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931024483, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931024557, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931025074, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931025137, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931025813, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1735246931026723, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1735246931026945, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1735246931027032, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1735246931019429, "dur":7760, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735246931027191, "dur":659134, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735246931686468, "dur":103, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735246931686468, "dur":104, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735246931686572, "dur":3632, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1735246931021637, "dur":5581, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931027223, "dur":1452, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931028676, "dur":1360, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931030036, "dur":6048, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931036119, "dur":204, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1735246931036085, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1735246931068230, "dur":175, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931053326, "dur":15140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1735246931068591, "dur":171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1735246931068587, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1735246931069822, "dur":4010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1735246931073924, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1735246931077512, "dur":150, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931074187, "dur":3541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1735246931077863, "dur":562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1735246931078847, "dur":2135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1735246931081152, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1735246931087555, "dur":1184, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931081377, "dur":7379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1735246931088900, "dur":179, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1735246931088897, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1735246931089448, "dur":2395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1735246931091923, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1735246931092133, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1735246931096859, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931096855, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931097186, "dur":71410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931168726, "dur":3202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931172073, "dur":3152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931175341, "dur":2480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931177949, "dur":1867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931180009, "dur":1780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931182012, "dur":1843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931184045, "dur":1809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931186035, "dur":1696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931187842, "dur":2250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931190195, "dur":31565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931221929, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931222011, "dur":2671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931227134, "dur":126, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931224851, "dur":2457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931227463, "dur":1902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931229567, "dur":2836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931232555, "dur":2817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931235571, "dur":5063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931240735, "dur":3260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931244128, "dur":2134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931246494, "dur":2273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931248941, "dur":2697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931251782, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931251862, "dur":2090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931254053, "dur":1950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931256230, "dur":138, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931256373, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931258285, "dur":1891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931260293, "dur":2508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931262956, "dur":1941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931265030, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931267089, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931269151, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931272028, "dur":363, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931269242, "dur":3225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931277030, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931272620, "dur":4494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931277281, "dur":3270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931280716, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931280796, "dur":2822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931283825, "dur":2873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931288565, "dur":163, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931286808, "dur":1987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735246931292521, "dur":170, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931288955, "dur":3776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1735246931292905, "dur":4691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1735246931297799, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931307967, "dur":51347, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931297876, "dur":61506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1735246931359769, "dur":2163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1735246931362084, "dur":2185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1735246931403280, "dur":149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931364571, "dur":38919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1735246931403645, "dur":4779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1735246931411170, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931408643, "dur":2647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/level0.resS" }}
+,{ "pid":12345, "tid":1, "ts":1735246931411459, "dur":2135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1735246931419872, "dur":152, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735246931413714, "dur":6369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1735246931420199, "dur":6790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1735246931427160, "dur":35467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1735246931462713, "dur":223491, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931021641, "dur":5588, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931027233, "dur":1417, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931028651, "dur":1245, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931029897, "dur":975, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931030873, "dur":5213, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931036118, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1735246931036086, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1735246931055296, "dur":139, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931060589, "dur":10892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1735246931071580, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1735246931071576, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1735246931071791, "dur":4598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1735246931076479, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1735246931077084, "dur":2309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1735246931079496, "dur":196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1735246931079492, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1735246931082346, "dur":6336, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931079805, "dur":9080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1735246931088960, "dur":842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1735246931089815, "dur":112, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931090312, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1735246931092846, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1735246931094916, "dur":2516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1735246931097556, "dur":39169, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":2, "ts":1735246931097555, "dur":39174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway.exe" }}
+,{ "pid":12345, "tid":2, "ts":1735246931136771, "dur":2482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway.exe" }}
+,{ "pid":12345, "tid":2, "ts":1735246931139500, "dur":3030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931155481, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931142713, "dur":12926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931155748, "dur":224, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931155980, "dur":2042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931158180, "dur":3930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931162254, "dur":2150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931164546, "dur":46374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931211019, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931212765, "dur":1734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931214627, "dur":1854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931216627, "dur":6791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931223574, "dur":4358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931228212, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931233562, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931230319, "dur":3360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931233836, "dur":2295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931236257, "dur":5671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931242039, "dur":2549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931244702, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931249089, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735246931247075, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931249333, "dur":2846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931252300, "dur":3145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931255720, "dur":2555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931258415, "dur":2171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931260688, "dur":2921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931263690, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931263687, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931263883, "dur":316674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735246931580636, "dur":105486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931021660, "dur":5634, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931027295, "dur":1381, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931028677, "dur":1255, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931029933, "dur":566, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931030499, "dur":5566, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931037980, "dur":1675, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1735246931039701, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1735246931045395, "dur":168, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931041027, "dur":4599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1735246931045631, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1735246931053590, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931046682, "dur":7040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1735246931053834, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1735246931059158, "dur":11330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1735246931070651, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1735246931070952, "dur":5443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1735246931076544, "dur":2730, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1735246931076540, "dur":2737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1735246931079291, "dur":630, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931086192, "dur":2510, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931079928, "dur":8794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1735246931088882, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1735246931089486, "dur":1988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1735246931091614, "dur":215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1735246931091610, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1735246931091882, "dur":3240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1735246931095225, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.50f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931095221, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931095745, "dur":5957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931101806, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1735246931102524, "dur":26172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1735246931129404, "dur":4345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931133944, "dur":3545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931137598, "dur":17396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931155248, "dur":1628, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931157429, "dur":4290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931161959, "dur":77, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931162043, "dur":2505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931166352, "dur":165, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931164646, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931166760, "dur":2246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931169121, "dur":3255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931172508, "dur":3128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931187193, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931175746, "dur":11620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931187616, "dur":164, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931190356, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931187806, "dur":2674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931190648, "dur":4051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931194890, "dur":1655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931196639, "dur":1613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931198420, "dur":1836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931200431, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931204526, "dur":250, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931202375, "dur":2465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931206907, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931205119, "dur":2015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931207269, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931209313, "dur":7483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931216933, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931222245, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931217011, "dur":5355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931222481, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931222557, "dur":2503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931225208, "dur":1750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931227180, "dur":2272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931229595, "dur":2828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931232555, "dur":2874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931235575, "dur":4777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931240534, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931242982, "dur":78, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931246088, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931243067, "dur":3183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931246376, "dur":11484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931258148, "dur":584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931258761, "dur":7028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931265955, "dur":1585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931267663, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931267722, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931272275, "dur":200, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931269782, "dur":2741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931272659, "dur":1658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931277148, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931274491, "dur":2729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931277330, "dur":2016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931279537, "dur":3299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931283025, "dur":1929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931285107, "dur":1580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735246931292627, "dur":190, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931286862, "dur":5968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1735246931292969, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931293040, "dur":12143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1735246931305444, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931305538, "dur":1591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1735246931307304, "dur":54224, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931361538, "dur":3575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1735246931365227, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735246931365304, "dur":96880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/level1.resS" }}
+,{ "pid":12345, "tid":3, "ts":1735246931462264, "dur":223997, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735246931021634, "dur":5572, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735246931027210, "dur":8842, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735246931039538, "dur":1008, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735246931038087, "dur":2496, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":4, "ts":1735246931040592, "dur":201, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1735246931040809, "dur":13561, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1735246931054376, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1735246931054922, "dur":192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mena\\Documents\\UnityProjects\\Subway_Demo\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735246931055118, "dur":449, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mena\\Documents\\UnityProjects\\Subway_Demo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735246931055570, "dur":533, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mena\\Documents\\UnityProjects\\Subway_Demo\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735246931056106, "dur":665, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mena\\Documents\\UnityProjects\\Subway_Demo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735246931056775, "dur":1264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mena\\Documents\\UnityProjects\\Subway_Demo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735246931058042, "dur":298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mena\\Documents\\UnityProjects\\Subway_Demo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735246931058342, "dur":871, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mena\\Documents\\UnityProjects\\Subway_Demo\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735246931059317, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player7ecd1273-inputdata.json" }}
+,{ "pid":12345, "tid":4, "ts":1735246931040589, "dur":19065, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1735246931060145, "dur":100, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735246931060250, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735246931071165, "dur":594769, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1735246931672167, "dur":11836, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1735246931672164, "dur":11842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1735246931684038, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mena/Desktop/Egyptian Subway/Egyptian Subway_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1735246931695417, "dur":2249, "ph":"X", "name": "ProfilerWriteOutput" }
+,

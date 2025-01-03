@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8863261476431170607
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1892763897289834904}
+  - component: {fileID: 239100929258284470}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1892763897289834904
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8863261476431170607}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &239100929258284470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8863261476431170607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75a8c5ecca56ffd448371102730d616e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: main_theme
+    clip: {fileID: 8300000, guid: aa19f9c500ea2a74bb78e6b2f77b6f9c, type: 3}
+    volume: 0.5
+    loop: 1
+    source: {fileID: 0}
+  - name: coin
+    clip: {fileID: 8300000, guid: 6de7b154652876440b5f58bfe5b204bd, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: death
+    clip: {fileID: 8300000, guid: 8eabfe60cdbb2cf40a30baf088e5a429, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: jump
+    clip: {fileID: 8300000, guid: ab07328e67eed0548a0a15994d1c0143, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: dodge
+    clip: {fileID: 8300000, guid: 1f9630b9c90c422429fc75d15c4b8cda, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: roll
+    clip: {fileID: 8300000, guid: a8da4563bc8390349b422aa3f6c20a45, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: tap
+    clip: {fileID: 8300000, guid: aa56ef3f68d1e084e83e217dd30bb11d, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: powerUps
+    clip: {fileID: 8300000, guid: 005d489b159057d40914ff99bf1ef3e3, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: powerDown
+    clip: {fileID: 8300000, guid: c197020c10d051a40a2a138a62b2811f, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
